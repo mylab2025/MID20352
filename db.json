@@ -9,7 +9,7 @@
       "MID": "MID20352",
       "MD": "The PT2258 is a dedicated 6-channel electronic volume controller IC manufactured by Princeton Technology Corp, built using CMOS technology for multi-channels audio and video systems.\r\nKey Specifications & Features\r\nChannels: 6 independent input and output audio channels.\r\nAttenuation Range: 0 dB to -79 dB in precise 1 dB steps.\r\nControl Interface: I2C Bus Control Interface supporting up to 4 selectable addresses on a single bus.\r\nOperating Voltage: 5V to 9V DC.\r\nAudio Performance: Signal-to-noise ratio (SNR) greater than 100 dB (A-weighting) and low total harmonic distortion.\r\nPackage Type: 20-pin DIP or SOP.",
       "MT": "Electronic Material",
-      "MQNT": 6,
+      "MQNT": 0,
       "MCost": 70.0,
       "MQATG": "#CLASS_0",
       "ML": "",
